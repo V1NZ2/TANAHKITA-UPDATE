@@ -1,22 +1,16 @@
 # TANAHKITA-UPDATE
-Version V0.6
-- Added point for staff and helper, if make a good roleplay or update discord channel, answering repory and ask.
-- renew command '/ticket' for faction POLICE
-- renew TanahKita-AC included
-- added anti fakespawn
-- Now " /mechduty && /vm " is bugged, under fixing 
-- Added dynamic garage on OD mechanic.
-- Workshop system is now can be used
-- added shortcut for "/myproperties" to '/mp'
-- Renewed bank interior and WALIKOTA exterior
-- Fixed salary at bus job
-- Fixed rendered for player
-- Added 3 spawned place ( Stasiun, Pelabuhan, Bandara.)
-- Added bunny hop system if player 3x pressed Jump button.
-
-===========================
-DISCORD LOGS
-- Added TKRP OFC BOT 0.1
-- Default Prefix is 'tk!'
-- Renewed music command
-- bot is under development
+VERSION V0.6 WINTERSYSTEM
+- Renewed anti-bunnyhop system
+- buffed sidejobs bus and other..
+- '/vm' and '/mechduty' akan segera diperbaiki
+- mechanic city sekarang mempunyai system baru, dengan workshop system didalamnya!
+- mechanic duty akan digajih sesuai dengan waktu dutynya
+- fix taxi fare
+- renewed navigator textdraw
+- added animation while player shooting in head
+- renewed dead animation
+- renewed dead anim while shoot with silence pistol
+- fixed bug damages on alyn client
+- fixed bug-banned and login 
+- fixed bug onplayervehicle and onplayerdestoyvehicle
+- kami sudah memperbaiki error & warning didalam gamemode aga rapih.
