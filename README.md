@@ -12,3 +12,9 @@ changelogs 0.7
 - fixed camera on buyskin.
 - renewed include,variable.
 - fixed other bug.
+- Fixed '/sw' command.
+- Fixed invalid id.
+- Fixed login system.
+- - added motd system.
+- added '/clearitems' command for administator level 4
+- - Fixed all bug in city 😛
